@@ -1,3 +1,3 @@
-Please click here for website -> https://michiganstate.bootcampcontent.com/yangamee/web-design-challenge/-/blob/master/WebVisualizations/landing.html
+Please click here for website -> file:///Users/ameeyang/Desktop/landing.html
 # Web-Design-Challenge
 
